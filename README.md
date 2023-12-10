@@ -1,6 +1,6 @@
 # Online-Library-Management-system
 
-Welcome to Online library management system. The project is completely on Netbeans IDE using Jframe
+Welcome to Online library management system. The project is completely made on Netbeans IDE using Jframe
 To access the website you must add the below jar file to the libraries. I have already attached those files in folder 
 mysql-connector-j-8.2.0.jar
 RojeruSan.parte1.jar
